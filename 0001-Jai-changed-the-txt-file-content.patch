@@ -1,0 +1,22 @@
+From f2979419748ec5d452b90457f10001be031352ef Mon Sep 17 00:00:00 2001
+From: Jaichey <jaichey56@gmail.com>
+Date: Sat, 2 Aug 2025 10:15:28 +0530
+Subject: [PATCH] Jai changed the txt file content
+
+---
+ Example.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/Example.txt b/Example.txt
+index 10a8c40..287b033 100644
+--- a/Example.txt
++++ b/Example.txt
+@@ -1 +1,2 @@
+-Hey Hi
+\ No newline at end of file
++Hey Hi
++Hello, How are you?
+\ No newline at end of file
+-- 
+2.48.1.windows.1
+
